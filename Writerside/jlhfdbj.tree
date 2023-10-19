@@ -9,5 +9,5 @@
         <toc-element topic="Empty-MD-Topic.md"/>
         <toc-element topic="demo.md"/>
     </toc-element>
-    <toc-element topic="栈.md"/>
+    <toc-element topic="stack.md"/>
 </instance-profile>
