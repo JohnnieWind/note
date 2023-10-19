@@ -14,4 +14,8 @@
         <description>Created after removal of "虚拟机栈" from 借利好风的笔记</description>
         <accepts>虚拟机栈.html</accepts>
     </rule>
+    <rule id="6d872a9d">
+        <description>Created after removal of "虚拟机栈" from 借利好风的笔记</description>
+        <accepts>虚拟机栈.html</accepts>
+    </rule>
 </rules>
