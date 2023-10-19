@@ -5,6 +5,9 @@
 <instance-profile id="jlhfdbj"
                  name="借利好风的笔记"
                  start-page="Default-topic.md">
-    <toc-element topic="Default-topic.md"/>
-    <toc-element topic="虚拟机栈.md"/>
+    <toc-element topic="Default-topic.md">
+        <toc-element topic="Empty-MD-Topic.md"/>
+        <toc-element topic="demo.md"/>
+    </toc-element>
+    <toc-element topic="test.md"/>
 </instance-profile>
